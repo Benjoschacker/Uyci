@@ -1,0 +1,21 @@
+[
+    {
+        "cedula": "17710206",
+        "apellidos": "YIMALKOVSKI DROBINER",
+        "nombre": "GABRIEL",
+        "nroCedula": 17710206,
+        "apellidos_raw": "YIMALKOVSKI DROBINER",
+        "nombre_raw": "GABRIEL",
+        "primerApellido": "YIMALKOVSKI",
+        "primerNombre": "GABRIEL",
+        "segundoApellido": "DROBINER",
+        "segundoNombre": "",
+        "genero": "H",
+        "digital": false,
+        "fechaNacimiento": "1973-12-04T00:00:00.000Z",
+        "fechaNacimiento_raw": "04/12/1973",
+        "nroActa": 5494,
+        "scrapped": true,
+        "seccionJudicial": "Montevideo 19"
+    }
+]
