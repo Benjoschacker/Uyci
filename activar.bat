@@ -1,3 +1,3 @@
-python -m venv .venv :: solo por primera vez
+py -m venv .venv :: SOLO POR PRIMERA VEZ
 call .venv\Scripts\activate
 py server.py
